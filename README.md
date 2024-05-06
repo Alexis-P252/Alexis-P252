@@ -10,8 +10,6 @@ I am a passionate junior developer from Uruguay.
 
 
 * 📚 I’m studying the IT Technologist career at UTEC (Univesidad Tecnológica del Uruguay)
-* 🔭 I’m currently working as a Junior Java Developer at Techie Talent 
-* 🌱 I’m currently learning Spring Framework
 
 
 # 💻 Tech Stack:
